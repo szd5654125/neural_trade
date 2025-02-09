@@ -1,0 +1,2 @@
+MLP: EMA: use (high + low)/2 : 对于3m周期来说100步长相较10步长更好用。
+MLP: up_t and down_t: 删除后好像影响不大
